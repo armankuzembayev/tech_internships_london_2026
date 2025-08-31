@@ -2,7 +2,7 @@
 
 This repository provides a **collection of tech-related internships specifically in London for Summer 2026**.
 
-It aims to help students to discover and apply for relevant opportunities.
+It aims to help students discover and apply for relevant opportunities.
 
 ---
 
@@ -60,8 +60,11 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Palantir | Software Engineer Infra | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
 | Palantir | Software Engineer Production Infra | [Apply](https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30) |
 | Point72 | Quantitative Researcher | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20/) |
-| QRT | Quantitative Development & Data Engineer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8010602002) |
-| QRT | Researcher | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8040281002) |
+| QRT | Quantitative Developer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8119009002) |
+| QRT | Quantitative Researcher | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8000746002) |
+| QRT | Quantitative Researcher/Trader | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8052341002) |
+| QRT | Data Engineer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8078338002) |
+| QRT | Business Data Analyst | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8106023002) |
 | Quadrature | Software Engineer | [Apply](https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) |
 | RCM | Software Engineer | [Apply](https://trkr.app/vacancy/register-your-interest-2026-rcm-internship-opportunities/) |
 | Revolut | Python Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-python-software-engineer-efcda77a-7b75-4400-a5f2-85eb4def7389/) |                                                                     | Revolut | Android Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-android-software-engineer-a0414b36-ccd7-4db0-ad19-f0cb5a7a348a/) |                                                                    | Revolut | Frontend Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-software-engineer-frontend-dd43eb5a-053f-4769-9e7c-c7255712f038/) |                                                                   | Revolut | Java Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-java-software-engineer-344620ad-45c0-4a19-b221-5adb0f82afde/) |
