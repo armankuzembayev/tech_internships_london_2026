@@ -12,6 +12,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 
 | Company | Position | Link |
 | -------- | -------- | -------- |                                                                                                                                             
+| Aquatic Capital Management | Software Engineeer| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4290849842) |
+| Aquatic Capital Management | Quantitative Researcher| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4221408447) |
 | Baillie Gifford  | Software Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/software-engineering-and-innovation/) |
 | Baillie Gifford | Cloud Infrastructure and Security Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/cloud-infrastructure-and-security/) |
 | Balyasny Asset Management | Software Engineer | [Apply](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ7175) |
