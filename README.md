@@ -28,6 +28,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Citadel | Quantitative Research Analyst | [Apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) |
 | Citadel | Quantitative Researcher – PhD | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) |
 | Confluent | Software Engineer | [Apply](https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b) |
+| D. E. Shaw | Trader / Analyst | [Apply](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2026-5465)
 | DRW | Quantitative Researcher | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3172071) |
 | DRW | Quantitative Trading Analyst | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3151889) |
 | DRW | Software Engineer | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3172074) |
