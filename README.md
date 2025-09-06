@@ -75,6 +75,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Revolut | Information Security Analyst | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-information-security-analyst-9216a7d6-0476-4c34-a798-4326d263eb32/) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
 | TikTok | Data scientist | [Apply](https://lifeattiktok.com/search/7535469099951147272) |
+| Tower Research Capital | Quantitative Developer | [Apply](https://tower-research.com/open-positions/?gh_jid=7210139) |  
+| Tower Research Capital | Quantitative Trader/Researcher | [Apply](https://tower-research.com/open-positions/?gh_jid=7210138) |
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
 
