@@ -79,7 +79,9 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Tower Research Capital | Quantitative Trader/Researcher | [Apply](https://tower-research.com/open-positions/?gh_jid=7210138) |
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
-
+| XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Software-Engineering-Intern-%28Data-Platform%29-Summer-2026&id=6927688003)
+| XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003)
+| XTX | Information Security Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Information-Security-Intern-Summer-2026&id=6927789003)
 
 ---
 
