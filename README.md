@@ -57,6 +57,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Man Group | Software Engineer | [Apply](https://www.man.com/graduate-programmes#:~:text=Technology%20Summer%20Internship) |
 | Marshall Wace | Software Engineer | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram) |
 | Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/1701268357240258)
+| Microsoft | Software Engineer | [Apply](https://jobs.careers.microsoft.com/global/en/job/1871538/Software-Engineer-Internship-Opportunities) |
 | Mistral | Machine Learning Engineer | [Apply](https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5) |
 | Mistral | Applied Scientist / Research Engineer | [Apply](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) |
 | Old Mission | Quantitative Trader | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6602928003) |
