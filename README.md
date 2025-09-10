@@ -64,6 +64,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Palantir | Software Engineer | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) |
 | Palantir | Software Engineer Infra | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
 | Palantir | Software Engineer Production Infra | [Apply](https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30) |
+| Perplexity | Software Engineer | [Apply](https://job-boards.greenhouse.io/perplexityai/jobs/4735785007)
 | Point72 | Quantitative Researcher | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20/) |
 | QRT | Quantitative Developer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8119009002) |
 | QRT | Quantitative Researcher | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8000746002) |
