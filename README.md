@@ -41,6 +41,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Five Rings | Software Engineer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008) |
 | Goldman Sachs	| Analyst | [Apply](https://higher.gs.com/roles/152815)
 | Goldman Sachs	| Associate | [Apply](https://higher.gs.com/roles/152817)
+| Google | Software Engineer/Site Reliability Engineer | [Apply](https://www.google.com/about/careers/applications/jobs/results/93991924192420550-software-engineering-site-reliability-engineering-bsms-intern-2026) |
 | Google | Research Scientist | [Apply](https://www.google.com/about/careers/applications/jobs/results/132462425956852422-research-scientist-phd-intern-2026)
 | GResearch | Quantitative Researcher | [Apply](https://www.gresearch.com/vacancies/internship-in-quantitative-research/) |
 | GResearch | Machine Learning Researcher | [Apply](https://www.gresearch.com/vacancies/machine-learning-research-internship/) |
