@@ -12,6 +12,9 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 
 | Company | Position | Link |
 | -------- | -------- | -------- |                                                                                                                                             
+| Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200617616-2114/gpu-internships-platform-architecture) |
+| Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616901-2114/gpu-internships-design-verification-and-emulation-driver-live) |
+| Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616899-2114/gpu-internships-rtl-design-rtl-power-optimisation-physical-design) |
 | Aquatic Capital Management | Software Engineeer| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4290849842) |
 | Aquatic Capital Management | Quantitative Researcher| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4221408447) |
 | Baillie Gifford  | Software Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/software-engineering-and-innovation/) |
