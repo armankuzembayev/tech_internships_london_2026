@@ -12,6 +12,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 
 | Company | Position | Link |
 | -------- | -------- | -------- |                                                                                                                                             
+| Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3083028/engineering-intern) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200617616-2114/gpu-internships-platform-architecture) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616901-2114/gpu-internships-design-verification-and-emulation-driver-live) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616899-2114/gpu-internships-rtl-design-rtl-power-optimisation-physical-design) |
