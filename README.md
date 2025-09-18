@@ -63,7 +63,11 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Mako | Software Engineer | [Apply](https://www.mako.com/opportunities/job-listing?gh_jid=7845961002) |
 | Man Group | Software Engineer | [Apply](https://www.man.com/graduate-programmes#:~:text=Technology%20Summer%20Internship) |
 | Marshall Wace | Software Engineer | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram) |
-| Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/1701268357240258)
+| Meta | Software Engineer | [Apply](https://www.metacareers.com/jobs/1177716950861965) |
+| Meta | Security Engineer | [Apply](https://www.metacareers.com/jobs/770613715578381) |
+| Meta | Product Security Engineer | [Apply](https://www.metacareers.com/jobs/1286018266665816) |
+| Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/812059127829101)
+| Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/642942325544662)
 | Microsoft | Software Engineer | [Apply](https://jobs.careers.microsoft.com/global/en/job/1871538/Software-Engineer-Internship-Opportunities) |
 | Mistral | Machine Learning Engineer | [Apply](https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5) |
 | Mistral | Applied Scientist / Research Engineer | [Apply](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) |
