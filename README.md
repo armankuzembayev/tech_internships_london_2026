@@ -42,6 +42,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | DRW | Software Engineer | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3172074) |
 | DV Trading | Software Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592920005) |
 | DV Trading | Trading Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592911005) |
+| Figma | Software Engineer | [Apply](https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004) |
 | Five Rings | Software Engineer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008) |
 | Goldman Sachs	| Analyst | [Apply](https://higher.gs.com/roles/152815)
 | Goldman Sachs	| Associate | [Apply](https://higher.gs.com/roles/152817)
