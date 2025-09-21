@@ -18,6 +18,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616899-2114/gpu-internships-rtl-design-rtl-power-optimisation-physical-design) |
 | Aquatic Capital Management | Software Engineeer| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4290849842) |
 | Aquatic Capital Management | Quantitative Researcher| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4221408447) |
+| BAE Systems | Software Engineer | [Apply](https://jobsearch.baesystems.com/job/summer-intern-software-engineer-122167) |
 | Baillie Gifford  | Software Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/software-engineering-and-innovation/) |
 | Baillie Gifford | Cloud Infrastructure and Security Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/cloud-infrastructure-and-security/) |
 | Balyasny Asset Management | Software Engineer | [Apply](https://bambusdev.my.site.com/s/details?jobReq=Software-Engineering--Summer-Internship-_REQ7175) |
