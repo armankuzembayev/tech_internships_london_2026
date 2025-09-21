@@ -74,6 +74,9 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/812059127829101)
 | Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/642942325544662)
 | Microsoft | Software Engineer | [Apply](https://jobs.careers.microsoft.com/global/en/job/1871538/Software-Engineer-Internship-Opportunities) |
+| Millenium | Software Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944532745) |
+| Millenium | AI Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944533538) |
+| Millenium | Quantitative Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944541659) |
 | Mistral | Machine Learning Engineer | [Apply](https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5) |
 | Mistral | Applied Scientist / Research Engineer | [Apply](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) |
 | Monzo | Software Engineer | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7171396) |
