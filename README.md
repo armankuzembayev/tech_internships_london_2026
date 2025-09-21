@@ -27,6 +27,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Barclays | Software Engineer | [Apply](https://search.jobs.barclays/internships-technology) |
 | Barclays | Data Analyst | [Apply](https://search.jobs.barclays/internships-data-analytics) |
 | Barclays | Qauntitative Analyst | [Apply](https://search.jobs.barclays/internships-quantitative-analytics) |
+| BCG | AI Engineer | [Apply](https://careers.bcg.com/global/en/job/BCG1US52453EXTERNALENGLOBAL/BCG-X-AI-Engineer-Internship-United-Kingdom) |
 | Bending Spoons | Software Engineer | [Apply](https://jobs.bendingspoons.com/positions/6890dba49d850bc8ab9a94f9?utm_source=bendingspoons&utm_medium=website&utm_campaign=careers&utm_content=prefooter_CTA&jobCategory=AI+%26+Engineering&contractType=internship) |
 | Black Rock | Analyst | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9617-2026-Summer-Internship-Programme-EMEA/en-GB) |
 | Black Rock | Quantitative Researcher | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9610-2026-Quantitative-Masters-Internship-Programme-London/en-GB) |
