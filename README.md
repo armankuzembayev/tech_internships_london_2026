@@ -31,6 +31,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Black Rock | Analyst | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9617-2026-Summer-Internship-Programme-EMEA/en-GB) |
 | Black Rock | Quantitative Researcher | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9610-2026-Quantitative-Masters-Internship-Programme-London/en-GB) |
 | BNP Paribas | Software Engineer | [Apply](https://group.bnpparibas/en/careers/job-offer/london-2026-summer-internship-technology) |
+| ByteDance | Solutions Architect | [Apply](https://joinbytedance.com/search/7543555717114906898) |
 | Capital One | Software Engineer | [Apply](https://jobs.capitalone.co.uk/earlycareers) |
 | CCI | Trading Analyst | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2026-_R1099) |
 | Citadel | Software Engineer | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-europe/) |
