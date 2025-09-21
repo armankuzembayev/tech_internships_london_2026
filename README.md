@@ -66,6 +66,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Mako | Software Engineer | [Apply](https://www.mako.com/opportunities/job-listing?gh_jid=7845961002) |
 | Man Group | Software Engineer | [Apply](https://www.man.com/graduate-programmes#:~:text=Technology%20Summer%20Internship) |
 | Marshall Wace | Software Engineer | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram) |
+| Maven | Software Engineer | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6560482) |
+| Maven  | Quantitatve Trader | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6601597) |
 | Meta | Software Engineer | [Apply](https://www.metacareers.com/jobs/1177716950861965) |
 | Meta | Security Engineer | [Apply](https://www.metacareers.com/jobs/770613715578381) |
 | Meta | Product Security Engineer | [Apply](https://www.metacareers.com/jobs/1286018266665816) |
