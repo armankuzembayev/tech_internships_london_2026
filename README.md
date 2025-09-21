@@ -83,6 +83,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Mistral | Applied Scientist / Research Engineer | [Apply](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) |
 | Monzo | Software Engineer | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7171396) |
 | Monzo | Data Scientist | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7186856) |
+| Netcraft | Software Engineer | [Apply](https://netcraft.bamboohr.com/careers/155) |
 | Old Mission | Quantitative Trader | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6602928003) |
 | Palantir | Software Engineer | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) |
 | Palantir | Software Engineer Infra | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
