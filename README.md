@@ -111,6 +111,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | TikTok | Security Engineer | [Apply](https://lifeattiktok.com/search/7503858502650939666) |
 | Tower Research Capital | Quantitative Developer | [Apply](https://tower-research.com/open-positions/?gh_jid=7210139) |  
 | Tower Research Capital | Quantitative Trader/Researcher | [Apply](https://tower-research.com/open-positions/?gh_jid=7210138) |
+| TPP | Software Engineer | [Apply](https://tpp-careers.com/roles/summer-internship-software-developer/) |
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
 | XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Software-Engineering-Intern-%28Data-Platform%29-Summer-2026&id=6927688003)
