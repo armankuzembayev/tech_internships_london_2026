@@ -85,6 +85,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Millenium | Quantitative Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944541659) |
 | Mistral | Machine Learning Engineer | [Apply](https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5) |
 | Mistral | Applied Scientist / Research Engineer | [Apply](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7) |
+| Mizuho | Software Engineer | [Apply](https://www.grb.uk.com/internships/mizuho-banking-it-developer-summer-internship-london-36588/) |
+| Mizuho | Business Analyst | [Apply](https://www.grb.uk.com/internships/mizuho-banking-business-analyst-summer-internship-london-36587/) |
 | Monzo | Software Engineer | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7171396) |
 | Monzo | Data Scientist | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7186856) |
 | Netcraft | Software Engineer | [Apply](https://netcraft.bamboohr.com/careers/155) |
