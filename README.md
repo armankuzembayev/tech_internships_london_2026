@@ -117,6 +117,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | TPP | Software Engineer | [Apply](https://tpp-careers.com/roles/summer-internship-software-developer/) |
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
+| UBS | Software Engineer | [Apply](https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=330522#jobDetails=330522_5176) |
 | XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Software-Engineering-Intern-%28Data-Platform%29-Summer-2026&id=6927688003)
 | XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Core-Software-Engineering-Intern-Summer-2026&id=6927305003)
 | XTX | Information Security Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Information-Security-Intern-Summer-2026&id=6927789003)
