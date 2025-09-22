@@ -71,6 +71,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | LSEG | Software Engineer | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1) |
 | Mako | Software Engineer | [Apply](https://www.mako.com/opportunities/job-listing?gh_jid=7845961002) |
 | Man Group | Software Engineer | [Apply](https://www.man.com/graduate-programmes#:~:text=Technology%20Summer%20Internship) |
+| Macquarie | Software Engineer | [Apply](https://recruitment.macquarie.com/en_US/careers/JobDetail?jobId=18059) |
 | Marshall Wace | Software Engineer | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram) |
 | Maven | Software Engineer | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6560482) |
 | Maven  | Quantitatve Trader | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6601597) |
