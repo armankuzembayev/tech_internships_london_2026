@@ -110,6 +110,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Revolut | IOS Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-i-os-software-engineer-de295462-8301-468f-97c5-0e24d62a8a62/) |
 | Revolut | Information Security Analyst | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-information-security-analyst-9216a7d6-0476-4c34-a798-4326d263eb32/) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
+| Talos | Automation Engineer | [Apply](https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513) |
 | TikTok | Data scientist | [Apply](https://lifeattiktok.com/search/7535469099951147272) |
 | TikTok | Security Engineer | [Apply](https://lifeattiktok.com/search/7503858502650939666) |
 | Tower Research Capital | Quantitative Developer | [Apply](https://tower-research.com/open-positions/?gh_jid=7210139) |  
