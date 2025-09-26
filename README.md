@@ -123,6 +123,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
 | UBS | Software Engineer | [Apply](https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=330522#jobDetails=330522_5176) |
+| Uncountable | Software Engineer | [Apply](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e) |
 | Xantium | Quantitative Developer | [Apply](https://job-boards.greenhouse.io/xantium/jobs/7094436) |
 | Xantium | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/xantium/jobs/7104184) |
 | XTX | Software Engineer | [Apply](https://www.xtxmarkets.com/job/?role=Software-Engineering-Intern-%28Data-Platform%29-Summer-2026&id=6927688003)
