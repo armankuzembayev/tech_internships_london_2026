@@ -52,6 +52,10 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | DV Trading | Software Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592920005) |
 | DV Trading | Trading Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592911005) |
 | Epic Games | Gameplay Engineer | [Apply](https://www.epicgames.com/site/en-US/careers/jobs/5621025004) |
+| EY | Software Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D61%26location%5B%5D%3D12&openRoles=1&paged=1) |
+| EY | Software Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D79%26location%5B%5D%3D12&openRoles=1&paged=2) |
+| EY | Cyber Security Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D91%26location%5B%5D%3D12&openRoles=1&paged=1) |
+| EY | AI Analyst | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D327%26location%5B%5D%3D12&openRoles=1&paged=1) |
 | Figma | Software Engineer | [Apply](https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004) |
 | Five Rings | Software Engineer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008) |
 | Goldman Sachs	| Analyst | [Apply](https://higher.gs.com/roles/152815)
