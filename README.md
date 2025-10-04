@@ -110,6 +110,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Palantir | Software Engineer Production Infra | [Apply](https://jobs.lever.co/palantir/bc5c4098-07d5-49ed-a398-a27e6191aa30) |
 | Perplexity | Software Engineer | [Apply](https://job-boards.greenhouse.io/perplexityai/jobs/4735785007)
 | Point72 | Quantitative Researcher | [Apply](https://careers.point72.com/CSJobDetail?jobName=quantitative-researcher-intern&jobCode=CSS-0012598&location=London%20/) |
+| Point72 | Data Engineer | [Apply](https://careers.point72.com/CSJobDetail?jobName=2026-summer-internship-data-engineer-long-short-equities&jobCode=IVS-0013807) |
 | Pimco | Software Engineer | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/details/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105661?locationCountry=29247e57dbaf46fb855b224e03170bc7&locations=c3a960b7b21f10016312adea6fcd0000&jobFamilyGroup=b27adc21fb841001104e883f4e350000) |
 | Pimco | Trading Analyst | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/details/XMLNAME-2026-Summer-Internship---Trading-Analyst--London_R105647?locationCountry=29247e57dbaf46fb855b224e03170bc7&locations=c3a960b7b21f10016312adea6fcd0000&jobFamilyGroup=b27adc21fb841001104e883f4e350000) |
 | QRT | Quantitative Developer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8119009002) |
