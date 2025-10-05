@@ -32,6 +32,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Bending Spoons | Software Engineer | [Apply](https://jobs.bendingspoons.com/positions/6890dba49d850bc8ab9a94f9?utm_source=bendingspoons&utm_medium=website&utm_campaign=careers&utm_content=prefooter_CTA&jobCategory=AI+%26+Engineering&contractType=internship) |
 | Black Rock | Analyst | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9617-2026-Summer-Internship-Programme-EMEA/en-GB) |
 | Black Rock | Quantitative Researcher | [Apply](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/user-1735377/xf-f76b69d9c998/candidate/so/pm/1/pl/1/opp/9610-2026-Quantitative-Masters-Internship-Programme-London/en-GB) |
+| Blackstone | Software Engineer | [Apply](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2026-Blackstone-Technology---Innovations---Software-Developer-Summer-Analyst_39475) |
 | BNP Paribas | Software Engineer | [Apply](https://group.bnpparibas/en/careers/job-offer/london-2026-summer-internship-technology) |
 | BNY | Software Engineer | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/70373) |
 | ByteDance | Solutions Architect | [Apply](https://joinbytedance.com/search/7543555717114906898) |
