@@ -129,6 +129,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
+| StoneX | Software Engineer | [Apply](https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job) |
 | Talos | Automation Engineer | [Apply](https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513) |
 | TikTok | Data scientist | [Apply](https://lifeattiktok.com/search/7535469099951147272) |
 | TikTok | Security Engineer | [Apply](https://lifeattiktok.com/search/7503858502650939666) |
