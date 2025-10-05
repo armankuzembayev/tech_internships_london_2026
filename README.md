@@ -45,6 +45,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Cohere | Software Engineer | [Apply](https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b) |
 | Confluent | Software Engineer | [Apply](https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b) |
 | D. E. Shaw | Trader / Analyst | [Apply](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2026-5465)
+| Deutsche Bank | Quantitative Analyst | [Apply](https://db.recsolu.com/external/requisitions/wElWyJuzaQsSuznKnmGHuQ) |
+| Deutsche Bank | Quantitative Analyst | [Apply](https://db.recsolu.com/external/requisitions/06QH2Bv1dcqan-KaKuS6EA) |
 | Disney | Software Engineer | [Apply](https://www.disneycareers.com/en/job/london/technology-and-it-internship/391/86728181072) |
 | Disney | Production Engineer | [Apply](https://www.disneycareers.com/en/job/london/website-production-internship/391/86728181136) |
 | DRW | Quantitative Researcher | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3172071) |
