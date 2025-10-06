@@ -83,6 +83,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Jump Trading | Software Engineer | [Apply](https://www.jumptrading.com/careers/6946008/?gh_jid=6946008) |
 | Jump Trading | Data Engineer | [Apply](https://www.jumptrading.com/careers/7124377/?gh_jid=7124377) |
 | Jump Trading | UI Software Engineer | [Apply](https://www.jumptrading.com/careers/6959808/?gh_jid=6959808) |
+| Leeroo | Research Scientist | [Apply](https://leeroo.com/careers/1) |
 | LSEG | Software Engineer | [Apply](https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/London-United-Kingdom/Engineering-Summer-Internship-Programme--2026-_R0111538-1) |
 | Mako | Software Engineer | [Apply](https://www.mako.com/opportunities/job-listing?gh_jid=7845961002) |
 | Man Group | Software Engineer | [Apply](https://www.man.com/graduate-programmes#:~:text=Technology%20Summer%20Internship) |
