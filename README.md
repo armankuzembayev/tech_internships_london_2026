@@ -73,6 +73,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | GResearch | Machine Learning Researcher | [Apply](https://www.gresearch.com/vacancies/machine-learning-research-internship/) |
 | GSA | Quantitative Researcher | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016006002) |
 | GSA | Software Engineer | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016008002) |
+| Hartree Partners | Software Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4310137065) |
 | incident.io | Product Engineer | [Apply](https://incident.io/careers/3abca7c8-3660-4f08-8bdf-a00d0a8dd40b) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/0adf104c-908d-405d-8fa7-3bab9af1ccb8/) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/13c810d3-4936-4689-9138-20dab35238e1/) |
