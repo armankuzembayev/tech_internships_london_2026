@@ -116,6 +116,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Naptha AI | Software Engineer | [Apply](https://naptha.ai/careers?ashby_jid=96df9dd3-85bc-4cff-b806-973b78bb433a) |
 | Naptha AI | Research Scientist | [Apply](https://naptha.ai/careers?ashby_jid=980ee7a2-88b0-4be8-b7cf-f470169b5514) |
 | Netcraft | Software Engineer | [Apply](https://netcraft.bamboohr.com/careers/155) |
+| Netmind.AI | IOS Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4309379163) |
 | Old Mission | Quantitative Trader | [Apply](https://www.oldmissioncapital.com/careers/?gh_jid=6602928003) |
 | Palantir | Software Engineer | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602) |
 | Palantir | Software Engineer Infra | [Apply](https://jobs.lever.co/palantir/fd3603a9-7016-45c6-9c8d-04c9279ab85e) |
