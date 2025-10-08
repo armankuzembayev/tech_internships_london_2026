@@ -12,7 +12,9 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 
 | Company | Position | Link |
 | -------- | -------- | -------- |                                                                                                                                             
+| Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) |
 | Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3083028/engineering-intern) |
+| Amazon | Business Intelligence Engineer | [Apply](https://www.amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship) |
 | Amex | Software Engineer | [Apply](https://aexp.eightfold.ai/careers/job/37886461) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200617616-2114/gpu-internships-platform-architecture) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616901-2114/gpu-internships-design-verification-and-emulation-driver-live) |
