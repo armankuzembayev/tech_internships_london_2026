@@ -94,6 +94,10 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Marshall Wace | Software Engineer | [Apply](https://job-boards.greenhouse.io/mwinternshipprogram) |
 | Maven | Software Engineer | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6560482) |
 | Maven  | Quantitatve Trader | [Apply](https://job-boards.greenhouse.io/emergingtalent/jobs/6601597) |
+| Melotech | Full-Stack Engineer | [Apply](https://jobs.ashbyhq.com/melotech/15af19d9-a318-45a6-8a06-23053ea487a5) |
+| Melotech | Data Scientist | [Apply](https://jobs.ashbyhq.com/melotech/f2f3e785-12a0-4d30-be43-e6c5c119a6c2) |
+| Melotech | AI/ML Engineer | [Apply](https://jobs.ashbyhq.com/melotech/e99207bd-8a2f-4641-a463-08a6633a7073) |
+| Melotech | Roblox Platform Engineer | [Apply](https://jobs.ashbyhq.com/melotech/01684d37-b6ab-4467-82b3-38c81cb92e84) |
 | Meta | Software Engineer | [Apply](https://www.metacareers.com/jobs/1177716950861965) |
 | Meta | Security Engineer | [Apply](https://www.metacareers.com/jobs/770613715578381) |
 | Meta | Product Security Engineer | [Apply](https://www.metacareers.com/jobs/1286018266665816) |
