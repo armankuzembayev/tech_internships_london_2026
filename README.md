@@ -26,6 +26,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616899-2114/gpu-internships-rtl-design-rtl-power-optimisation-physical-design) |
 | Aquatic Capital Management | Software Engineeer| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4290849842) |
 | Aquatic Capital Management | Quantitative Researcher| [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4221408447) |
+| Aries | Analytics Engineer | [Apply](https://aries.global/careers?ashby_jid=a3626fac-c0eb-447c-83ce-70487a6dc455) |
 | Arch Capital Group | Data Scientist | [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/Data-Science-Summer-Internship---2026_R25_1037) |
 | Arch Capital Group | IT Analytics Engineer| [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/IT-Analytics-Engineer-Summer-Internship---2026_R25_1033) |
 | Arch Capital Group | IT Reporting Engineer| [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/IT-Reporting-Engineer-Summer-Internship---2026_R25_1035) |
