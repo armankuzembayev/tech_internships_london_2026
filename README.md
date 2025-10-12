@@ -138,6 +138,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Point72 | Data Engineer | [Apply](https://careers.point72.com/CSJobDetail?jobName=2026-summer-internship-data-engineer-long-short-equities&jobCode=IVS-0013807) |
 | Pimco | Software Engineer | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/details/XMLNAME-2026-Summer-Intern---Technology-Analyst--Software-Engineering_R105661?locationCountry=29247e57dbaf46fb855b224e03170bc7&locations=c3a960b7b21f10016312adea6fcd0000&jobFamilyGroup=b27adc21fb841001104e883f4e350000) |
 | Pimco | Trading Analyst | [Apply](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/details/XMLNAME-2026-Summer-Internship---Trading-Analyst--London_R105647?locationCountry=29247e57dbaf46fb855b224e03170bc7&locations=c3a960b7b21f10016312adea6fcd0000&jobFamilyGroup=b27adc21fb841001104e883f4e350000) |
+| P&G | Data Analyst | [Apply](https://www.pgcareers.com/uk/en/job/R000138641/Data-Analytics-Summer-Internship-2026) | 
 | QRT | Software Engineer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8095404002) |
 | QRT | Quantitative Developer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8119009002) |
 | QRT | Quantitative Researcher | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8000746002) |
