@@ -150,6 +150,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Revolut | Information Security Analyst | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-information-security-analyst-9216a7d6-0476-4c34-a798-4326d263eb32/) |
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
+| Speechmatics | Machine Learning Engineer | [Apply](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593299101) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
 | StoneX | Software Engineer | [Apply](https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job) |
 | Talos | Automation Engineer | [Apply](https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513) |
