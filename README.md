@@ -12,6 +12,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 
 | Company | Position | Link |
 | -------- | -------- | -------- |                                                                                                                                             
+| Advanced Design Technology | Software Engineer | [Apply](https://www.adtechnology.com/careers/software-development-internship) |
 | Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) |
 | Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3083028/engineering-intern) |
 | Amazon | Business Intelligence Engineer | [Apply](https://www.amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship) |
