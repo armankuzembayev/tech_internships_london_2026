@@ -58,6 +58,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Cogna | Software Engineer | [Apply](https://apply.workable.com/cogna/j/BE83D6BC7F/) |
 | Cohere | Software Engineer | [Apply](https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b) |
 | Confluent | Software Engineer | [Apply](https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b) |
+| Crossing Hurdles | ML Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4313633192) |
 | CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Collection-Team--Remote--GBR-_R25273) |
 | CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Targeted-Intrusion--Remote-_R25248) |
 | CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Emerging-Threats--Remote-_R25247) |
