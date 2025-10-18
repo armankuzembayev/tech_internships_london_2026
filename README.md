@@ -58,6 +58,10 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Cogna | Software Engineer | [Apply](https://apply.workable.com/cogna/j/BE83D6BC7F/) |
 | Cohere | Software Engineer | [Apply](https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b) |
 | Confluent | Software Engineer | [Apply](https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b) |
+| CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Collection-Team--Remote--GBR-_R25273) |
+| CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Targeted-Intrusion--Remote-_R25248) |
+| CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Emerging-Threats--Remote-_R25247) |
+| CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Applied-Research-Cell--Remote-_R25250) |
 | D. E. Shaw | Trader / Analyst | [Apply](https://www.deshaw.com/careers/trader-analyst-intern-london-summer-2026-5465)
 | Deductive AI | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4085602965/) |
 | Deutsche Bank | Quantitative Analyst | [Apply](https://db.recsolu.com/external/requisitions/wElWyJuzaQsSuznKnmGHuQ) |
