@@ -175,7 +175,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Tradeweb |  AI Engineer | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301501) |
 | UBS | Software Engineer | [Apply](https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=330522#jobDetails=330522_5176) |
 | Uncountable | Software Engineer | [Apply](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e) |
-|  Visa |   Software Engineer | [Apply](https://jobs.smartrecruiters.com/Visa/744000088590905) |
+| UST | AI Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4305740229) |
+| Visa |   Software Engineer | [Apply](https://jobs.smartrecruiters.com/Visa/744000088590905) |
 | Waymo | Machine Learning Engineer | [Apply](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-machine-learning-engineer-simulation-london-england-united-kingdom) | 
 | Wintermute | Quantitative Researcher | [Apply](https://jobs.lever.co/wintermute-trading/a86a12ce-041c-4eef-a1e6-1f9308cf5ad1) |
 | Wintermute | Algorithmic Trader | [Apply](https://jobs.lever.co/wintermute-trading/9ea53f8c-f7bf-4aec-89ea-3ba622645404) |
