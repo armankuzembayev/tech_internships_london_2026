@@ -156,6 +156,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Revolut | Information Security Analyst | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-information-security-analyst-9216a7d6-0476-4c34-a798-4326d263eb32/) |
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
+| SIG | Quantitative Trader | [Apply](https://careers.sig.com/job/9890/Quantitative-Trading-Internship-Summer-2026) |
 | Sky | Data Scientist | [Apply](https://careers.sky.com/earlycareers/internships/data-science) |
 | Sony | Reinforcement Learning Researcher | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/Sony_Europe_Careers/details/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118106) |
 | Speechmatics | Machine Learning Engineer | [Apply](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593299101) |
