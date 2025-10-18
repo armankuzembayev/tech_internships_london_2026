@@ -170,6 +170,9 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | TPP | Software Engineer | [Apply](https://tpp-careers.com/roles/summer-internship-software-developer/) |
 | Trade Desk | Software Engineer | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship) |
 | Trade Desk | Data scientist | [Apply](https://careers.thetradedesk.com/jobs/4793185007/2026-london-data-science-internship) |
+| Tradeweb |  Back-End Engineer | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301497) |
+| Tradeweb |  Front-End Engineer | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301499) |
+| Tradeweb |  AI Engineer | [Apply](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301501) |
 | UBS | Software Engineer | [Apply](https://jobs.ubs.com/TGNewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5176&PageType=JobDetails&jobid=330522#jobDetails=330522_5176) |
 | Uncountable | Software Engineer | [Apply](https://jobs.lever.co/uncountable/6328427a-9047-44d5-82d6-56d533d8622e) |
 |  Visa |   Software Engineer | [Apply](https://jobs.smartrecruiters.com/Visa/744000088590905) |
