@@ -92,6 +92,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | incident.io | Product Engineer | [Apply](https://incident.io/careers/3abca7c8-3660-4f08-8bdf-a00d0a8dd40b) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/0adf104c-908d-405d-8fa7-3bab9af1ccb8/) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/13c810d3-4936-4689-9138-20dab35238e1/) |
+| InterDigital | Applied ML Engineer | [Apply](https://interdigital.wd5.myworkdayjobs.com/en-US/InterDigital_Intern/details/Intern--Applied-ML-Multimedia_REQ25-1045) |
 | Jane Street | Quantitative Trader | [Apply](https://www.janestreet.com/join-jane-street/position/8008382002/) |
 | Jane Street | Quantitative Researcher | [Apply](https://www.janestreet.com/join-jane-street/position/8017833002/) |
 | Jane Street | Machine Learning Researcher | [Apply](https://www.janestreet.com/join-jane-street/position/8061093002/) |
