@@ -70,6 +70,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | DV Trading | Trading Engineer | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4592911005) |
 | EBRD | Software Engineer | [Apply](https://jobs.ebrd.com/job/London-Intern/1254530601/) |
 | Epic Games | Gameplay Engineer | [Apply](https://www.epicgames.com/site/en-US/careers/jobs/5621025004) |
+| Expedia | Software Engineer | [Apply](https://careers.expediagroup.com/job/software-development-engineering-intern-june-2026-london/london-London/R-98445/) |
+| Expedia | Software Engineer | [Apply](https://careers.expediagroup.com/job/data-science-analytics-intern-june-2026-london/london-London/R-98598/) |
 | EY | Software Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D61%26location%5B%5D%3D12&openRoles=1&paged=1) |
 | EY | Software Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D79%26location%5B%5D%3D12&openRoles=1&paged=2) |
 | EY | Cyber Security Engineer | [Apply](https://ukstudents.ey.com/?jobs=%26program%5B%5D%3D41%26sub-business-area%5B%5D%3D91%26location%5B%5D%3D12&openRoles=1&paged=1) |
