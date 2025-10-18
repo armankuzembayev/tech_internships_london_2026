@@ -166,6 +166,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Tencent | Business Development Engineer | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Business-Development-Intern_R106101) |
 | Tencent | Agent Development Engineer | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern--Marketing-and-UA-Support-_R105863-1) |
 | Tencent | 3D Model Algorithms Researcher | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/XMLNAME-3D-Model-and-Scene-Generation-Algorithm-Research-Intern_R105940) |
+| Thomson Reuters | Applied Data Scientist | [Apply](https://careers.thomsonreuters.com/us/en/job/JREQ195013/Applied-Science-Intern) |
+| Thomson Reuters | AI Research Engineer | [Apply](https://careers.thomsonreuters.com/us/en/job/JREQ195098/Research-Engineering-Intern) |
 | TikTok | Data scientist | [Apply](https://lifeattiktok.com/search/7535469099951147272) |
 | TikTok | Security Engineer | [Apply](https://lifeattiktok.com/search/7503858502650939666) |
 | Tower Research Capital | Quantitative Developer | [Apply](https://tower-research.com/open-positions/?gh_jid=7210139) |  
