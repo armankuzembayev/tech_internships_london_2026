@@ -156,6 +156,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
 | Sky | Data Scientist | [Apply](https://careers.sky.com/earlycareers/internships/data-science) |
+| Sony | Reinforcement Learning Researcher | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/Sony_Europe_Careers/details/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118106) |
 | Speechmatics | Machine Learning Engineer | [Apply](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593299101) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
 | StoneX | Software Engineer | [Apply](https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job) |
