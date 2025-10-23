@@ -131,6 +131,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/812059127829101)
 | Meta | Research Scientist | [Apply](https://www.metacareers.com/jobs/642942325544662)
 | Microsoft | Software Engineer | [Apply](https://jobs.careers.microsoft.com/global/en/job/1871538/Software-Engineer-Internship-Opportunities) |
+| Microsoft | Applied ML Researcher | [Apply](https://jobs.careers.microsoft.com/global/en/job/1898642/Applied-Science-PhD-Internship-Opportunities) |
+| Microsoft | Applied ML Researcher | [Apply](https://jobs.careers.microsoft.com/global/en/job/1880387/Applied-Science-PhD-Internship-Opportunities) |
 | Millenium | Software Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944532745) |
 | Millenium | AI Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944533538) |
 | Millenium | Quantitative Engineer | [Apply](https://campusjobs.mlp.com/careers/job/755944541659) |
