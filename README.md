@@ -88,6 +88,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Figma | Software Engineer | [Apply](https://job-boards.greenhouse.io/figma/jobs/5621177004?gh_jid=5621177004) |
 | Five Rings | Software Engineer | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008) |
 | Fleek |  Software Engineer | [Apply](https://www.ycombinator.com/companies/fleek/jobs/lGtFTVa-software-engineering-intern-london-based) |
+| Fundapps | Software Engineer | [Apply](https://fundapps.pinpointhq.com/en/postings/dcf56687-2bef-46d9-b3c9-9d0e7d5f3c61) |
 | Goldman Sachs	| Analyst | [Apply](https://higher.gs.com/roles/152815)
 | Goldman Sachs	| Associate | [Apply](https://higher.gs.com/roles/152817)
 | Google | Software Engineer/Site Reliability Engineer | [Apply](https://www.google.com/about/careers/applications/jobs/results/93991924192420550-software-engineering-site-reliability-engineering-bsms-intern-2026) |
