@@ -18,11 +18,11 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3083028/engineering-intern) |
 | Amazon | Business Intelligence Engineer | [Apply](https://www.amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship) |
 | Amex | Software Engineer | [Apply](https://aexp.eightfold.ai/careers/job/37886461) |
-| Apple | Distributed Build System Engineer | [Apply](https://jobs.apple.com/en-gb/details/200625333-2114/internship-distributed-build-system) |
-| Apple | Debugger Compiler Integration Engineer | [Apply](https://jobs.apple.com/en-gb/details/200623627-2114/internship-debugger-compiler-integration-intern) |
-| Apple | Swift Compiler Engineer | [Apply](https://jobs.apple.com/en-gb/details/200625344-2114/internship-swift-compiler-engineer) |
-| Apple | Applied Machine Learning Engineer | [Apply](https://jobs.apple.com/en-gb/details/200624506-2114/internship-applied-machine-learning-developer-publications-intelligence) |
-| Apple | Information Security Engineer | [Apply](https://jobs.apple.com/en-gb/details/200624078-2114/information-security-internship) |
+| Apple | ML Engineer | [Apply](https://jobs.apple.com/en-gb/details/200626373-2114/internship-pro-apps-machine-learning-ecosystem-engineer) |
+| Apple | Applied ML Engineer | [Apply](https://jobs.apple.com/en-gb/details/200624506-2114/internship-applied-machine-learning-developer-publications-intelligence) |
+| Apple | Animation Researcher | [Apply](https://jobs.apple.com/en-gb/details/200622529-2114/internship-charter-animation-with-neural-networks) |
+| Apple | Kernel OS Engineer | [Apply](https://jobs.apple.com/en-gb/details/200624521-2114/internship-kernel-engineer-core-os) |
+| Apple | GPU Driver Engineer | [Apply](https://jobs.apple.com/en-gb/details/200626354-2114/internship-mac-gpu-driver-engineer) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200617616-2114/gpu-internships-platform-architecture) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616901-2114/gpu-internships-design-verification-and-emulation-driver-live) |
 | Apple | Hardware Engineer | [Apply](https://jobs.apple.com/en-gb/details/200616899-2114/gpu-internships-rtl-design-rtl-power-optimisation-physical-design) |
