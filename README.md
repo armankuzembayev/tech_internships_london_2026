@@ -53,6 +53,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | ByteDance | Solutions Architect | [Apply](https://joinbytedance.com/search/7543555717114906898) |
 | Capital One | Software Engineer | [Apply](https://jobs.capitalone.co.uk/earlycareers) |
 | CCI | Trading Analyst | [Apply](https://osv-cci.wd1.myworkdayjobs.com/en-US/CCICareers/job/Commodities-Trading-Summer-Analyst-Internship-Programme--Summer-2026-_R1099) |
+| Centrica | Software Engineer | [Apply](https://centrica.wd3.myworkdayjobs.com/Centrica/job/Windsor/DTS-Summer-Internship_R0078047-1) |
 | Citadel | Software Engineer | [Apply](https://www.citadel.com/careers/details/software-engineer-intern-europe/) |
 | Citadel | Quantitative Research Analyst | [Apply](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/) |
 | Citadel | Quantitative Researcher – PhD | [Apply](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/) |
