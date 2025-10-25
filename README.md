@@ -101,6 +101,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | HRT | Software Engineer | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-3/) |
 | HRT | Quantitative Researcher | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-3/) |
 | HRT | Quantitative Researcher | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2026-3/) |
+| HUMANOID | Robotics Modules Evaluation and Testing Engineer | [Apply](https://thehumanoid.ai/vacancy/internship-robotics-modules-evaluation-and-testing/) |
 | incident.io | Product Engineer | [Apply](https://incident.io/careers/3abca7c8-3660-4f08-8bdf-a00d0a8dd40b) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/0adf104c-908d-405d-8fa7-3bab9af1ccb8/) |
 | InstaDeep | Research Engineer | [Apply](https://instadeep.com/internship-offer/13c810d3-4936-4689-9138-20dab35238e1/) |
