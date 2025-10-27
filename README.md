@@ -202,6 +202,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | UST | AI Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4305740229) |
 | Verisk | Integration Analyst | [Apply](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1629) |
 | Visa |   Software Engineer | [Apply](https://jobs.smartrecruiters.com/Visa/744000088590905) |
+| Voleon | ML Researcher | [Apply](https://jobs.lever.co/voleon/1ff17a01-830c-4b77-ba52-bd14d29aa7df) |
 | Waymo | Machine Learning Engineer | [Apply](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-machine-learning-engineer-simulation-london-england-united-kingdom) | 
 | Wintermute | Quantitative Researcher | [Apply](https://jobs.lever.co/wintermute-trading/a86a12ce-041c-4eef-a1e6-1f9308cf5ad1) |
 | Wintermute | Algorithmic Trader | [Apply](https://jobs.lever.co/wintermute-trading/9ea53f8c-f7bf-4aec-89ea-3ba622645404) |
