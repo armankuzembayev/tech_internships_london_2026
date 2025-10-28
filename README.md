@@ -148,6 +148,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Mizuho | Business Analyst | [Apply](https://www.grb.uk.com/internships/mizuho-banking-business-analyst-summer-internship-london-36587/) |
 | Monzo | Software Engineer | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7171396) |
 | Monzo | Data Scientist | [Apply](https://job-boards.greenhouse.io/monzo/jobs/7186856) |
+| Morgan Stanley | Software Engineer | [Apply](https://morganstanley.tal.net/vx/candidate/apply/19695) |
 | Naptha AI | Software Engineer | [Apply](https://naptha.ai/careers?ashby_jid=96df9dd3-85bc-4cff-b806-973b78bb433a) |
 | Naptha AI | Research Scientist | [Apply](https://naptha.ai/careers?ashby_jid=980ee7a2-88b0-4be8-b7cf-f470169b5514) |
 | Netcraft | Software Engineer | [Apply](https://netcraft.bamboohr.com/careers/155) |
