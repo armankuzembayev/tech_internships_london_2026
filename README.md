@@ -15,7 +15,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Adobe | Research Scientist | [Apply](https://careers.adobe.com/us/en/job/R160881/2026-Intern-Research-Scientist) |
 | Advanced Design Technology | Software Engineer | [Apply](https://www.adtechnology.com/careers/software-development-internship) |
 | Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) |
-| Amazon | Software Engineer | [Apply](https://www.amazon.jobs/en/jobs/3083028/engineering-intern) |
+| Amazon | Data Scientist | [Apply](https://www.amazon.jobs/en/jobs/3115007/2026-data-scientist-internship-amazon-university-talent-acquisition) |
+| Amazon | Applied Scientist | [Apply](https://www.amazon.jobs/en/jobs/3115180/2026-applied-scientist-intern-amazon-university-talent-acquisition) |
 | Amazon | Business Intelligence Engineer | [Apply](https://www.amazon.jobs/en/jobs/3094384/2026-business-intelligence-engineer-internship) |
 | Amex | Software Engineer | [Apply](https://aexp.eightfold.ai/careers/job/37886461) |
 | Apple | ML Engineer | [Apply](https://jobs.apple.com/en-gb/details/200626373-2114/internship-pro-apps-machine-learning-ecosystem-engineer) |
