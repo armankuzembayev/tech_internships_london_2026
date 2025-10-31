@@ -71,6 +71,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Deductive AI | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4085602965/) |
 | Deutsche Bank | Quantitative Analyst | [Apply](https://db.recsolu.com/external/requisitions/wElWyJuzaQsSuznKnmGHuQ) |
 | Deutsche Bank | Quantitative Analyst | [Apply](https://db.recsolu.com/external/requisitions/06QH2Bv1dcqan-KaKuS6EA) |
+| DFX | AI Engineer | [Apply](https://www.careers-page.com/dfx-deal-flow-xchange-inc/job/4RXY7W35) |
 | Disney | Software Engineer | [Apply](https://www.disneycareers.com/en/job/london/technology-and-it-internship/391/86728181072) |
 | Disney | Production Engineer | [Apply](https://www.disneycareers.com/en/job/london/website-production-internship/391/86728181136) |
 | DRW | Quantitative Researcher | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3172071) |
