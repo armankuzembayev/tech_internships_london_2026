@@ -61,6 +61,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Cloudflare | Software Engineer | [Apply](https://job-boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923) |
 | Cogna | Software Engineer | [Apply](https://apply.workable.com/cogna/j/BE83D6BC7F/) |
 | Cohere | Software Engineer | [Apply](https://jobs.ashbyhq.com/cohere/1bc2c535-2f42-454e-aebe-9c018575ce7b) |
+| Coinbase | Software Engineer | [Apply](https://www.coinbase.com/en-gb/careers/positions/7370475) |
 | Confluent | Software Engineer | [Apply](https://jobs.ashbyhq.com/confluent/095d92fe-7534-4f49-a846-b63ca229731b) |
 | Crossing Hurdles | ML Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4313633192) |
 | CrowdStrike | Cybersecurity Intelligence Engineer | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Intelligence-Intern---Collection-Team--Remote--GBR-_R25273) |
