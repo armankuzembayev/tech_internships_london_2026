@@ -102,6 +102,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | GSA | Quantitative Researcher | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016006002) |
 | GSA | Software Engineer | [Apply](https://boards.greenhouse.io/embed/job_app?for=gsacapital&token=8016008002) |
 | Hartree Partners | Software Engineer | [Apply](https://www.linkedin.com/jobs/search/?currentJobId=4310137065) |
+| Helsing | Software Engineer | [Apply](https://helsing.ai/jobs/4703320101) |
 | HRT | Software Engineer | [Apply](https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-3/) |
 | HRT | Quantitative Researcher | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2026-3/) |
 | HRT | Quantitative Researcher | [Apply](https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-phd-internship-summer-2026-3/) |
