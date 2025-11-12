@@ -34,6 +34,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Arch Capital Group | IT Analytics Engineer| [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/IT-Analytics-Engineer-Summer-Internship---2026_R25_1033) |
 | Arch Capital Group | IT Reporting Engineer| [Apply](https://archgroup.wd1.myworkdayjobs.com/en-US/Careers/job/IT-Reporting-Engineer-Summer-Internship---2026_R25_1035) |
 | Autodesk | AI Researcher | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Intern--AI-Research_25WD92190-1) |
+| Axon | Software Engineer | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7122432003) |
 | BAE Systems | Software Engineer | [Apply](https://jobsearch.baesystems.com/job/summer-intern-software-engineer-122167) |
 | Baillie Gifford  | Software Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/software-engineering-and-innovation/) |
 | Baillie Gifford | Cloud Infrastructure and Security Engineer | [Apply](https://www.bailliegifford.com/en/uk/individual-investors/careers/early-careers/internships/cloud-infrastructure-and-security/) |
