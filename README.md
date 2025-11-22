@@ -181,6 +181,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Revolut | IOS Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-i-os-software-engineer-de295462-8301-468f-97c5-0e24d62a8a62/) |
 | Revolut | Information Security Analyst | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-information-security-analyst-9216a7d6-0476-4c34-a798-4326d263eb32/) |
 | Rothesay | Software Engineer | [Apply](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8200814002) |
+| Samsara | Software Engineer | [Apply](https://www.samsara.com/uk/company/careers/roles/7336195) |
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
 | SIG | Quantitative Trader | [Apply](https://careers.sig.com/job/9890/Quantitative-Trading-Internship-Summer-2026) |
