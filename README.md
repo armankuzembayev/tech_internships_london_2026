@@ -190,6 +190,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | SIG | Quantitative Trader | [Apply](https://careers.sig.com/job/9890/Quantitative-Trading-Internship-Summer-2026) |
 | Sky | Data Scientist | [Apply](https://careers.sky.com/earlycareers/internships/data-science) |
 | Sony | Reinforcement Learning Researcher | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/Sony_Europe_Careers/details/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118106) |
+| Spaice | Computer Vision Engineer | [Apply](https://jobs.ashbyhq.com/spaice-tech/e3f67cc8-c383-478a-89dc-bd535605cd9b) |
 | Speechmatics | Machine Learning Engineer | [Apply](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4593299101) |
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
 | StoneX | Software Engineer | [Apply](https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job) |
