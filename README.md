@@ -177,6 +177,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | QRT | Business Data Analyst | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8106023002) |
 | Quadrature | Software Engineer | [Apply](https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) |
 | RCM | Software Engineer | [Apply](https://trkr.app/vacancy/register-your-interest-2026-rcm-internship-opportunities/) |
+| Redis | AI ResearchEngineer | [Apply](https://redis.io/company/careers/ai-research-internship-5547597004/) |
 | Revolut | Python Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-python-software-engineer-efcda77a-7b75-4400-a5f2-85eb4def7389/) |
 | Revolut | Android Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-android-software-engineer-a0414b36-ccd7-4db0-ad19-f0cb5a7a348a/) |
 | Revolut | Frontend Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-software-engineer-frontend-dd43eb5a-053f-4769-9e7c-c7255712f038/) |
