@@ -76,6 +76,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | DFX | AI Engineer | [Apply](https://www.careers-page.com/dfx-deal-flow-xchange-inc/job/4RXY7W35) |
 | Disney | Software Engineer | [Apply](https://www.disneycareers.com/en/job/london/technology-and-it-internship/391/86728181072) |
 | Disney | Production Engineer | [Apply](https://www.disneycareers.com/en/job/london/website-production-internship/391/86728181136) |
+| Dojo | AI Engineer | [Apply](https://dojo.careers/jobs/4698869101?gh_jid=4698869101) |
 | DRW | Quantitative Researcher | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-research-intern-3172071) |
 | DRW | Quantitative Trading Analyst | [Apply](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3151889) |
 | DRW | Software Engineer | [Apply](https://www.drw.com/work-at-drw/listings/software-developer-intern-3172074) |
