@@ -190,6 +190,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Samsara | Software Engineer | [Apply](https://www.samsara.com/uk/company/careers/roles/7336195) |
 | Schonfeld | Data Analyst | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7245678) |
 | Schonfeld | Quantitative Researcher | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/7243648) |
+| Scotiabank | Software Engineer | [Apply](https://jobs.scotiabank.com/job/London-%28UK%29-2026-UK-Technology-Summer-Internship-ENG/597631417/) |
 | SIG | Quantitative Trader | [Apply](https://careers.sig.com/job/9890/Quantitative-Trading-Internship-Summer-2026) |
 | Sky | Data Scientist | [Apply](https://careers.sky.com/earlycareers/internships/data-science) |
 | Sony | Reinforcement Learning Researcher | [Apply](https://sonyglobal.wd1.myworkdayjobs.com/en-US/Sony_Europe_Careers/details/Reinforcement-Learning-Research-Intern-for-Game-AI_JR-118106) |
