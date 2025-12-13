@@ -178,6 +178,8 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | QRT | Data Engineer | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8078338002) |
 | QRT | Business Data Analyst | [Apply](https://www.qube-rt.com/careers/job?gh_jid=8106023002) |
 | Quadrature | Software Engineer | [Apply](https://job-boards.greenhouse.io/quadraturecapital/jobs/3088156) |
+| Quantum Motion | Research Engineer | [Apply](https://quantummotion.jobs.personio.com/job/2448784) |
+| Quantum Motion | Hardware Engineer | [Apply](https://quantummotion.jobs.personio.com/job/2448600) |
 | RCM | Software Engineer | [Apply](https://trkr.app/vacancy/register-your-interest-2026-rcm-internship-opportunities/) |
 | Redis | AI ResearchEngineer | [Apply](https://redis.io/company/careers/ai-research-internship-5547597004/) |
 | Revolut | Python Software Engineer | [Apply](https://www.revolut.com/careers/position/rev-celerator-internship-programme-2026-python-software-engineer-efcda77a-7b75-4400-a5f2-85eb4def7389/) |
