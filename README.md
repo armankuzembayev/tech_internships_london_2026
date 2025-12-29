@@ -205,6 +205,7 @@ Below is a list of tech internships sorted alphabetically with direct applicatio
 | Square Point | Quantitative Researcher | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853)
 | StoneX | Software Engineer | [Apply](https://uk-stonex.icims.com/jobs/13894/intern---developer-%28front-office-metals-%29/job) |
 | Stripe | Software Engineer | [Apply](https://stripe.com/jobs/listing/software-engineer-intern/7360840) |
+| Talos | Software Engineer | [Apply](https://jobs.ashbyhq.com/Talos-Trading/f2b1c5af-ed8d-4759-98f4-76f656d83a52/) |
 | Talos | Automation Engineer | [Apply](https://jobs.ashbyhq.com/Talos-Trading/e689b2bd-c99a-4d87-a9ac-bf9aefc35513) |
 | Tencent | Business Development Engineer | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Business-Development-Intern_R106101) |
 | Tencent | Agent Development Engineer | [Apply](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/Agent-Development-Intern--Marketing-and-UA-Support-_R105863-1) |
